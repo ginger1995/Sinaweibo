@@ -1,0 +1,22 @@
+PODS:
+  - Alamofire (3.3.1)
+  - Kingfisher (2.2.2)
+  - MJRefresh (3.1.0)
+  - Shimmer (1.0.2)
+  - WSProgressHUD (1.1.0):
+    - Shimmer
+
+DEPENDENCIES:
+  - Alamofire (~> 3.3)
+  - Kingfisher (~> 2.2)
+  - MJRefresh
+  - WSProgressHUD
+
+SPEC CHECKSUMS:
+  Alamofire: 369bc67b6f5ac33ded3648d7bd21c5bfb91c2ecc
+  Kingfisher: 7e8de5b0cf7b5dc8ec559d193029a0859df93ef1
+  MJRefresh: 743e6404967d1c2c688472ea3ecfde247d872db4
+  Shimmer: c5374be1c2b0c9e292fb05b339a513cf291cac86
+  WSProgressHUD: 1304d6445ca683dfc71c48a43c9e9d0d6ad021c9
+
+COCOAPODS: 0.39.0

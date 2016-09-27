@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SinaWeibo/AppDelegate.swift"
+            timestampString = "486691985.292717"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "6"
+            endingLineNumber = "6">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SinaWeibo.AppDelegate.__deallocating_deinit"
+                  moduleName = "SinaWeibo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ginger/Documents/%E6%AF%95%E4%B8%9A%E8%AE%BE%E8%AE%A1%E7%9B%B8%E5%85%B3/Sinawebo%202/SinaWeibo/SinaWeibo/AppDelegate.swift"
+                  timestampString = "486692030.439449"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SinaWeibo.AppDelegate.init () -&gt; SinaWeibo.AppDelegate"
+                  moduleName = "SinaWeibo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ginger/Documents/%E6%AF%95%E4%B8%9A%E8%AE%BE%E8%AE%A1%E7%9B%B8%E5%85%B3/Sinawebo%202/SinaWeibo/SinaWeibo/AppDelegate.swift"
+                  timestampString = "486692030.439601"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "32">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "main"
+                  moduleName = "SinaWeibo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ginger/Documents/%E6%AF%95%E4%B8%9A%E8%AE%BE%E8%AE%A1%E7%9B%B8%E5%85%B3/Sinawebo%202/SinaWeibo/SinaWeibo/AppDelegate.swift"
+                  timestampString = "486692030.440302"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "28">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SinaWeibo/AppDelegate.swift"
+            timestampString = "486692105.021107"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "7"
+            endingLineNumber = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SinaWeibo.AppDelegate.__deallocating_deinit"
+                  moduleName = "SinaWeibo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ginger/Documents/%E6%AF%95%E4%B8%9A%E8%AE%BE%E8%AE%A1%E7%9B%B8%E5%85%B3/Sinawebo%202/SinaWeibo/SinaWeibo/AppDelegate.swift"
+                  timestampString = "486692105.023222"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SinaWeibo.AppDelegate.init () -&gt; SinaWeibo.AppDelegate"
+                  moduleName = "SinaWeibo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ginger/Documents/%E6%AF%95%E4%B8%9A%E8%AE%BE%E8%AE%A1%E7%9B%B8%E5%85%B3/Sinawebo%202/SinaWeibo/SinaWeibo/AppDelegate.swift"
+                  timestampString = "486692105.02337"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "32">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "main"
+                  moduleName = "SinaWeibo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ginger/Documents/%E6%AF%95%E4%B8%9A%E8%AE%BE%E8%AE%A1%E7%9B%B8%E5%85%B3/Sinawebo%202/SinaWeibo/SinaWeibo/AppDelegate.swift"
+                  timestampString = "486692105.023471"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "28">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SinaWeibo/AppDelegate.swift"
+            timestampString = "486692107.284853"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "11"
+            endingLineNumber = "11"
+            landmarkName = "AppDelegate"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SinaWeibo.AppDelegate.__deallocating_deinit"
+                  moduleName = "SinaWeibo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ginger/Documents/%E6%AF%95%E4%B8%9A%E8%AE%BE%E8%AE%A1%E7%9B%B8%E5%85%B3/Sinawebo%202/SinaWeibo/SinaWeibo/AppDelegate.swift"
+                  timestampString = "486692107.286601"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SinaWeibo.AppDelegate.init () -&gt; SinaWeibo.AppDelegate"
+                  moduleName = "SinaWeibo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ginger/Documents/%E6%AF%95%E4%B8%9A%E8%AE%BE%E8%AE%A1%E7%9B%B8%E5%85%B3/Sinawebo%202/SinaWeibo/SinaWeibo/AppDelegate.swift"
+                  timestampString = "486692107.286742"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "32">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "main"
+                  moduleName = "SinaWeibo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ginger/Documents/%E6%AF%95%E4%B8%9A%E8%AE%BE%E8%AE%A1%E7%9B%B8%E5%85%B3/Sinawebo%202/SinaWeibo/SinaWeibo/AppDelegate.swift"
+                  timestampString = "486692107.286838"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "28">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
